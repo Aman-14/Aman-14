@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Currently working on my siscord bot [YourManager's](https://top.gg/bot/796756364331450388) website.
+- 🔭 Currently working on my discord bot [YourManager's](https://top.gg/bot/796756364331450388) website.
 - 🌱 I’m currently learning **React js**
 - 📫 How to reach me: [You can contact me here](https://discord.gg/teHf4zsdBU)
 
