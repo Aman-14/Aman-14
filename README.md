@@ -1,6 +1,5 @@
 # Hi there 👋, I am Aman
 
-Here are some ideas to get you started:
 
 - 🔭 Currently working on my discord bot [YourManager's](https://top.gg/bot/796756364331450388) website.
 - 🌱 I’m currently learning **React js**
