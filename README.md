@@ -1,8 +1,7 @@
 # Hi there 👋, I am Aman
 
 
-- 🔭 Currently working on my discord bot [YourManager's](https://top.gg/bot/796756364331450388) website.
-- 🌱 I’m currently learning **Golang**
+- Insterested in automating stuff
 - 📫 How to reach me: [You can contact me here](https://discord.gg/teHf4zsdBU)
 
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-14&count_private=true&show_icons=true&theme=radical)](https://github.com/Aman-14)
